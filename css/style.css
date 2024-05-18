@@ -454,7 +454,7 @@ a:focus {
   color: #fff;
   margin-right: 10px;
 }
-
+/*  ====================================== BG IMAGES    ========== */
 .bg-1 {
   background: url("../images/bg/22.jpg") no-repeat 50% 50%;
   background-size: cover;
@@ -465,7 +465,7 @@ a:focus {
   position: relative;
   overflow: hidden;
   background: #fff;
-  background: url("../images/bg/slider-bg-1.jpg") no-repeat;
+  background: url("../images/bg/home-hero.png") no-repeat;
   background-size: cover;
   min-height: 550px;
 }
